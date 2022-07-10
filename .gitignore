@@ -1,1 +1,6 @@
 .idea
+hwp/*
+hwpx/*
+
+!hwp/.gitkeep
+!hwpx/.gitkeep
