@@ -1,6 +1,8 @@
 .idea
 hwp/*
 hwpx/*
+dist
+build
 
 !hwp/.gitkeep
 !hwpx/.gitkeep
